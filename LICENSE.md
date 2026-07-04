@@ -1,5 +1,7 @@
 Copyright 2026 Lê Minh Công (Thomas Le)
+
 AHI Framework — https://github.com/lmc2341980/AHI-Framework
+
 Contact: ahiprojectteam@gmail.com
 
                                  Apache License
