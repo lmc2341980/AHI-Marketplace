@@ -1,6 +1,6 @@
 Copyright 2026 Lê Minh Công (Thomas Le)
 
-AHI Framework — https://github.com/lmc2341980/AHI-Framework
+AHI Marketplace — https://github.com/lmc2341980/AHI-Marketplace
 
 Contact: ahiprojectteam@gmail.com
 
